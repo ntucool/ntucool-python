@@ -1,0 +1,4 @@
+[style]
+BASED_ON_STYLE = google
+# DEDENT_CLOSING_BRACKETS = true
+COLUMN_LIMIT = 100
